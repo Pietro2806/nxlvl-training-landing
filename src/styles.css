@@ -36,3 +36,5 @@ footer{padding:50px 5vw;border-color:#1f1f1f}
 .phoneShell .row{padding:15px 0}
 .phoneShell .row>b{border-radius:50%}
 @media(max-width:560px){.phoneShell{width:286px;height:584px;border-radius:42px}.phoneScreen{border-radius:34px}.phoneShell .miniApp{padding:60px 21px 30px}.phoneStage:before{left:20px;top:20px}}
+
+.realAppShot{display:block;width:100%;height:100%;object-fit:cover;object-position:center top}.phoneScreen{background:#050505}
